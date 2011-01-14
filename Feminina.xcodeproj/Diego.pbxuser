@@ -1,0 +1,267 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FemininaAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {568, 422}}";
+			sepNavSelRange = "{466, 0}";
+			sepNavVisRange = "{0, 466}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FemininaAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 452}}";
+			sepNavSelRange = "{94, 0}";
+			sepNavVisRange = "{0, 546}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Feminina */ = {
+		activeExec = 0;
+		executables = (
+			F1F711FA112718FD00A3F85F /* Feminina */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FemininaViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 572}}";
+			sepNavSelRange = "{92, 0}";
+			sepNavVisRange = "{0, 960}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FemininaViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 2873}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 844}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F1F711FA112718FD00A3F85F /* Feminina */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Feminina */;
+		codeSenseManager = F1F7122A112718FF00A3F85F /* Code sense */;
+		executables = (
+			F1F711FA112718FD00A3F85F /* Feminina */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					674,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316670523;
+			PBXWorkspaceStateSaveDate = 316670523;
+		};
+		perUserProjectItems = {
+			F1114F3212E00248001AE3F9 /* PBXTextBookmark */ = F1114F3212E00248001AE3F9 /* PBXTextBookmark */;
+			F1C9568912DFD9FB003F76CE /* PBXBookmark */ = F1C9568912DFD9FB003F76CE /* PBXBookmark */;
+			F1C9568A12DFD9FB003F76CE /* PBXTextBookmark */ = F1C9568A12DFD9FB003F76CE /* PBXTextBookmark */;
+			F1C9568B12DFD9FB003F76CE /* PBXTextBookmark */ = F1C9568B12DFD9FB003F76CE /* PBXTextBookmark */;
+			F1C9568D12DFD9FB003F76CE /* PBXTextBookmark */ = F1C9568D12DFD9FB003F76CE /* PBXTextBookmark */;
+			F1C9568E12DFD9FB003F76CE /* PBXTextBookmark */ = F1C9568E12DFD9FB003F76CE /* PBXTextBookmark */;
+			F1C9568F12DFD9FB003F76CE /* PBXTextBookmark */ = F1C9568F12DFD9FB003F76CE /* PBXTextBookmark */;
+			F1C9569012DFD9FB003F76CE /* PBXTextBookmark */ = F1C9569012DFD9FB003F76CE /* PBXTextBookmark */;
+			F1C9569112DFD9FB003F76CE /* PlistBookmark */ = F1C9569112DFD9FB003F76CE /* PlistBookmark */;
+			F1C9569212DFD9FB003F76CE /* PBXTextBookmark */ = F1C9569212DFD9FB003F76CE /* PBXTextBookmark */;
+			F1C9569412DFD9FB003F76CE /* PBXTextBookmark */ = F1C9569412DFD9FB003F76CE /* PBXTextBookmark */;
+		};
+		sourceControlManager = F1F71229112718FF00A3F85F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {568, 422}}";
+			sepNavSelRange = "{128, 0}";
+			sepNavVisRange = "{0, 359}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Feminina_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {628, 422}}";
+			sepNavSelRange = "{105, 0}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+	4D1CAF9A11264B2B008744E2 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1944, 208}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 528}";
+		};
+	};
+	F1114F3212E00248001AE3F9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FemininaViewController.m */;
+		name = "FemininaViewController.m: 8";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 0;
+	};
+	F1C9568912DFD9FB003F76CE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4D5E66171124EC4000DAF9BE /* icon.png */;
+	};
+	F1C9568A12DFD9FB003F76CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D1CAF9A11264B2B008744E2 /* English */;
+		name = "Localizable.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	F1C9568B12DFD9FB003F76CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F1C9568C12DFD9FB003F76CE /* iLogicaViewController.h */;
+		name = "iLogicaViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 820;
+		vrLoc = 0;
+	};
+	F1C9568C12DFD9FB003F76CE /* iLogicaViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = iLogicaViewController.h;
+		path = /Users/Diego/Projects/iLogica/Classes/iLogicaViewController.h;
+		sourceTree = "<absolute>";
+	};
+	F1C9568D12DFD9FB003F76CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 7";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 359;
+		vrLoc = 0;
+	};
+	F1C9568E12DFD9FB003F76CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Feminina_Prefix.pch */;
+		name = "Feminina_Prefix.pch: 5";
+		rLen = 0;
+		rLoc = 105;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	F1C9568F12DFD9FB003F76CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FemininaAppDelegate.h */;
+		name = "FemininaAppDelegate.h: 23";
+		rLen = 0;
+		rLoc = 466;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 0;
+	};
+	F1C9569012DFD9FB003F76CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FemininaAppDelegate.m */;
+		name = "FemininaAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 94;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 0;
+	};
+	F1C9569112DFD9FB003F76CE /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Feminina-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Diego/Desktop/Feminina 2/Feminina-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	F1C9569212DFD9FB003F76CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FemininaViewController.h */;
+		name = "FemininaViewController.h: 6";
+		rLen = 0;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 960;
+		vrLoc = 0;
+	};
+	F1C9569412DFD9FB003F76CE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FemininaViewController.m */;
+		name = "FemininaViewController.m: 20";
+		rLen = 0;
+		rLoc = 370;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 0;
+	};
+	F1F711FA112718FD00A3F85F /* Feminina */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Feminina;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F1F71229112718FF00A3F85F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F1F7122A112718FF00A3F85F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

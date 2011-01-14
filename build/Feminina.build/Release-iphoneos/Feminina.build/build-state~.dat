@@ -1,0 +1,626 @@
+TFeminina
+v7
+r0
+t287722718.558789
+cCheck dependencies
+cCpResource build/Release-iphoneos/Feminina.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Info.plist Feminina-Info.plist
+cCompileXIB /Users/Patricia/Desktop/Feminina/MainWindow.xib
+cCompileXIB /Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib
+cCompileXIB /Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib
+cCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/background.png background.png
+cCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculate.png btcalculate.png
+cCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculatepressed.png btcalculatepressed.png
+cCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/icon.png icon.png
+cCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconemail.png iconemail.png
+cCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/bgaboutad.png bgaboutad.png
+cCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconfavime.png iconfavime.png
+cCopyStringsFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/English.lproj/Localizable.strings English.lproj/Localizable.strings
+cCopyStringsFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/pt.lproj/Localizable.strings pt.lproj/Localizable.strings
+cProcessPCH /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cexttxfvvpympcepdjnwjyyprker/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/main.o /Users/Patricia/Desktop/Feminina/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaAppDelegate.o /Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaViewController.o /Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/AdViewController.o /Users/Patricia/Desktop/Feminina/Classes/AdViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina normal armv6
+cGenerateDSYMFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app.dSYM /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina
+cProcessProductPackaging "/Users/Patricia/Library/MobileDevice/Provisioning Profiles/BDEF95BE-175C-487D-8406-58F2D969D587.mobileprovision" /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/embedded.mobileprovision
+cTouch /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina.xcent
+cCodeSign /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk
+c000000004B6CAB4E0000000000000110
+t1265412942
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+c000000004A0BA04000000000000000DD
+t1242275904
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+c000000004A0BA04000000000000001E5
+t1242275904
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004A1221B6000000000005E250
+t1242702262
+s385616
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A12212500000000002CE5F0
+t1242702117
+s2942448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A121EB900000000003D72A0
+t1242701497
+s4027040
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A1222C30000000000080DA0
+t1242702531
+s527776
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A0CD38700000000000001AF
+t1242354567
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A121FF90000000000396540
+t1242701817
+s3761472
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAECB0000000000001355
+t1242279627
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A1223F00000000000187E90
+t1242702832
+s1605264
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004A0BC25A0000000000000092
+t1242284634
+s146
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004A12240600000000000CFB30
+t1242702854
+s850736
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A12211900000000001CA4E0
+t1242702105
+s1877216
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBD000000000000075E
+t1242349245
+s1886
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A1221FD00000000019A6110
+t1242702333
+s26894608
+
+N/Users/Patricia/Desktop/Feminina/Classes/AdMobDelegateProtocol.h
+c000000004B74900E0000000000001683
+t1265930254
+s5763
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/Classes/AdMobView.h
+c000000004B74900E0000000000000579
+t1265930254
+s1401
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/Classes/AdViewController.h
+c000000004B74900E0000000000000537
+t1265930254
+s1335
+i<UIKit/UIKit.h>
+i"AdMobDelegateProtocol.h"
+
+N/Users/Patricia/Desktop/Feminina/Classes/AdViewController.m
+c000000004B75E9350000000000000C52
+t1266018613
+s3154
+i"AdMobView.h"
+i"AdViewController.h"
+
+N/Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.h
+c000000004B74BB8600000000000001E3
+t1265941382
+s483
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m
+c000000004B74BB7A000000000000026D
+t1265941370
+s621
+i"FemininaAppDelegate.h"
+i"FemininaViewController.h"
+
+N/Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.h
+c000000004B74BB6C0000000000000480
+t1265941356
+s1152
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+
+N/Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m
+c000000004B760FB30000000000001C54
+t1266028467
+s7252
+i"FemininaViewController.h"
+
+N/Users/Patricia/Desktop/Feminina/Classes/libAdMobDevice.a
+c000000004B74900E0000000000092690
+t1265930254
+s599696
+
+N/Users/Patricia/Desktop/Feminina/Classes/libAdMobDeviceNoThumb.a
+c000000004B74900E000000000009DC60
+t1265930254
+s646240
+
+N/Users/Patricia/Desktop/Feminina/Classes/libAdMobSimulator.a
+c000000004B74900E000000000009CAF0
+t1265930254
+s641776
+
+N/Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib
+c000000004B7603CC000000000000E783
+t1266025420
+s59267
+
+N/Users/Patricia/Desktop/Feminina/English.lproj/Localizable.strings
+c000000004B761199000000000000049A
+t1266028953
+s1178
+
+N/Users/Patricia/Desktop/Feminina/Feminina_Prefix.pch
+c000000004B74B44F00000000000000B9
+t1265939535
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/Localizable.strings
+c000000004B761199000000000000049A
+t1266028953
+s1178
+
+N/Users/Patricia/Desktop/Feminina/MainWindow.xib
+c000000004B74B44F0000000000002459
+t1265939535
+s9305
+
+N/Users/Patricia/Desktop/Feminina/background.png
+c000000004B6CFEA5000000000000129E
+t1265434277
+s4766
+
+N/Users/Patricia/Desktop/Feminina/bgaboutad.png
+c000000004B75ED300000000000002A74
+t1266019632
+s10868
+
+N/Users/Patricia/Desktop/Feminina/btcalculate.png
+c000000004B6CD2370000000000010FF2
+t1265422903
+s69618
+
+N/Users/Patricia/Desktop/Feminina/btcalculatepressed.png
+c000000004B6CFCB9000000000000FDFA
+t1265433785
+s65018
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina.xcent
+t1266029917
+s321
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/AdViewController.o
+t1266029917
+s39764
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/Feminina.LinkFileList
+c000000004B76155B00000000000001F5
+t1266029915
+s501
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaAppDelegate.o
+t1266029917
+s41064
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaViewController.o
+t1266029917
+s64780
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/main.o
+t1266029917
+s6620
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app
+t1266029918
+s646
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app.dSYM
+t1266029917
+s102
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/English.lproj/FemininaViewController.nib
+t1266029915
+s9108
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/English.lproj/Localizable.strings
+t1266029916
+s412
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina
+t1266029917
+s296764
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Info.plist
+t1266029915
+s737
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Localizable.strings
+t2
+s0
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/MainWindow.nib
+t1266029915
+s1497
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/PkgInfo
+t1266029915
+s8
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/ResourceRules.plist
+t1266029915
+s485
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/background.png
+t1266029915
+s4961
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/bgaboutad.png
+t1266029916
+s11203
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculate.png
+t1266029916
+s13718
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculatepressed.png
+t1266029916
+s13365
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/embedded.mobileprovision
+t1266029917
+s7174
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/icon.png
+t1266029916
+s5109
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconemail.png
+t1266029916
+s4327
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconfavime.png
+t1266029916
+s16105
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/pt.lproj/FemininaViewController.nib
+t1266029916
+s9680
+
+N/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/pt.lproj/Localizable.strings
+t1266029916
+s666
+
+N/Users/Patricia/Desktop/Feminina/icon.png
+c000000004B707C5700000000000013D7
+t1265663063
+s5079
+
+N/Users/Patricia/Desktop/Feminina/iconemail.png
+c000000004A47F1510000000000000F4E
+t1246228817
+s3918
+
+N/Users/Patricia/Desktop/Feminina/iconfavime.png
+c000000004B7330D600000000000185C5
+t1265840342
+s99781
+
+N/Users/Patricia/Desktop/Feminina/main.m
+c000000004B74BB9A0000000000000168
+t1265941402
+s360
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib
+c000000004B7603DC000000000000E835
+t1266025436
+s59445
+
+N/Users/Patricia/Desktop/Feminina/pt.lproj/Localizable.strings
+c000000004B76154A00000000000004A0
+t1266029898
+s1184
+
+N/Users/Patricia/Library/MobileDevice/Provisioning Profiles/BDEF95BE-175C-487D-8406-58F2D969D587.mobileprovision
+c000000004B1C45810000000000001C06
+t1260144001
+s7174
+
+N/var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cexttxfvvpympcepdjnwjyyprker/Feminina_Prefix.pch.gch
+t1266029916
+s7651456
+
+NFeminina-Info.plist
+c000000004B7601A40000000000000410
+t1266024868
+s1040
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287722715#287722715#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCodeSign /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app
+s287722717.672935
+e287722718.558648
+r1
+xCodeSign
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app
+lSLF07#2@44"CodeSign build/Release-iphoneos/Feminina.app287722717#287722718#0(0"0(0#0#68"/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app4300885448#636"    cd /Users/Patricia/Desktop/Feminina    setenv CODESIGN_ALLOCATE /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: Patricia Daibes (URGVUY5W9D)" --resource-rules=/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/ResourceRules.plist --entitlements /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina.xcent /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app0#
+
+CCompileC build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/AdViewController.o /Users/Patricia/Desktop/Feminina/Classes/AdViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287722717.202265
+e287722717.323597
+r1
+xCompileC
+xbuild/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/AdViewController.o
+x/Users/Patricia/Desktop/Feminina/Classes/AdViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Patricia/Desktop/Feminina/Classes/AdViewController.m287722717#287722717#0(0"0(0#0#59"/Users/Patricia/Desktop/Feminina/Classes/AdViewController.m4300885448#1745"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Release-iphoneos -I/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources/armv6 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources -include /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cexttxfvvpympcepdjnwjyyprker/Feminina_Prefix.pch -c /Users/Patricia/Desktop/Feminina/Classes/AdViewController.m -o /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/AdViewController.o0#
+
+CCompileC build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaAppDelegate.o /Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287722717.058409
+e287722717.202171
+r1
+xCompileC
+xbuild/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaAppDelegate.o
+x/Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m287722717#287722717#0(0"0(0#0#62"/Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m4300885448#1751"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Release-iphoneos -I/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources/armv6 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources -include /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cexttxfvvpympcepdjnwjyyprker/Feminina_Prefix.pch -c /Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m -o /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaAppDelegate.o0#
+
+CCompileC build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaViewController.o /Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287722717.123981
+e287722717.476413
+r1
+xCompileC
+xbuild/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaViewController.o
+x/Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m287722717#287722717#0(0"0(0#0#65"/Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m4300885448#1757"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Release-iphoneos -I/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources/armv6 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources -include /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cexttxfvvpympcepdjnwjyyprker/Feminina_Prefix.pch -c /Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m -o /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/FemininaViewController.o0#
+
+CCompileC build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/main.o /Users/Patricia/Desktop/Feminina/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287722717.057492
+e287722717.123888
+r1
+xCompileC
+xbuild/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/main.o
+x/Users/Patricia/Desktop/Feminina/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Patricia/Desktop/Feminina/main.m287722717#287722717#0(0"0(0#0#39"/Users/Patricia/Desktop/Feminina/main.m4300885448#1713"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Release-iphoneos -I/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources/armv6 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources -include /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cexttxfvvpympcepdjnwjyyprker/Feminina_Prefix.pch -c /Users/Patricia/Desktop/Feminina/main.m -o /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib
+s287722715.147240
+e287722715.866901
+r1
+xCompileXIB
+x/Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib
+lSLF07#2@51"CompileXIB English.lproj/FemininaViewController.xib287722715#287722715#0(0"0(0#0#73"/Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib4300885448#503"    cd /Users/Patricia/Desktop/Feminina    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/English.lproj/FemininaViewController.nib /Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib0#
+
+CCompileXIB /Users/Patricia/Desktop/Feminina/MainWindow.xib
+s287722715.146163
+e287722715.467471
+r1
+xCompileXIB
+x/Users/Patricia/Desktop/Feminina/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib287722715#287722715#0(0"0(0#0#47"/Users/Patricia/Desktop/Feminina/MainWindow.xib4300885448#451"    cd /Users/Patricia/Desktop/Feminina    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/MainWindow.nib /Users/Patricia/Desktop/Feminina/MainWindow.xib0#
+
+CCompileXIB /Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib
+s287722715.467557
+e287722716.273110
+r1
+xCompileXIB
+x/Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib
+lSLF07#2@46"CompileXIB pt.lproj/FemininaViewController.xib287722715#287722716#0(0"0(0#0#68"/Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib4300885448#493"    cd /Users/Patricia/Desktop/Feminina    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/pt.lproj/FemininaViewController.nib /Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib0#
+
+CCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/background.png background.png
+s287722715.866989
+e287722715.980901
+r1
+xCopyPNGFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/background.png
+xbackground.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/Feminina.app/background.png background.png287722715#287722715#0(0"0(0#0#47"/Users/Patricia/Desktop/Feminina/background.png4300885448#553"    cd /Users/Patricia/Desktop/Feminina    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Patricia/Desktop/Feminina/background.png /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/background.png0#
+
+CCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/bgaboutad.png bgaboutad.png
+s287722716.110913
+e287722716.214957
+r1
+xCopyPNGFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/bgaboutad.png
+xbgaboutad.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/Feminina.app/bgaboutad.png bgaboutad.png287722716#287722716#0(0"0(0#0#46"/Users/Patricia/Desktop/Feminina/bgaboutad.png4300885448#551"    cd /Users/Patricia/Desktop/Feminina    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Patricia/Desktop/Feminina/bgaboutad.png /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/bgaboutad.png0#
+
+CCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculate.png btcalculate.png
+s287722715.980993
+e287722716.014659
+r1
+xCopyPNGFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculate.png
+xbtcalculate.png
+lSLF07#2@79"CopyPNGFile build/Release-iphoneos/Feminina.app/btcalculate.png btcalculate.png287722715#287722716#0(0"0(0#0#48"/Users/Patricia/Desktop/Feminina/btcalculate.png4300885448#555"    cd /Users/Patricia/Desktop/Feminina    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Patricia/Desktop/Feminina/btcalculate.png /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculate.png0#
+
+CCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculatepressed.png btcalculatepressed.png
+s287722716.014753
+e287722716.039602
+r1
+xCopyPNGFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculatepressed.png
+xbtcalculatepressed.png
+lSLF07#2@93"CopyPNGFile build/Release-iphoneos/Feminina.app/btcalculatepressed.png btcalculatepressed.png287722716#287722716#0(0"0(0#0#55"/Users/Patricia/Desktop/Feminina/btcalculatepressed.png4300885448#569"    cd /Users/Patricia/Desktop/Feminina    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Patricia/Desktop/Feminina/btcalculatepressed.png /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/btcalculatepressed.png0#
+
+CCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/icon.png icon.png
+s287722716.039694
+e287722716.072228
+r1
+xCopyPNGFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/icon.png
+xicon.png
+lSLF07#2@65"CopyPNGFile build/Release-iphoneos/Feminina.app/icon.png icon.png287722716#287722716#0(0"0(0#0#41"/Users/Patricia/Desktop/Feminina/icon.png4300885448#541"    cd /Users/Patricia/Desktop/Feminina    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Patricia/Desktop/Feminina/icon.png /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/icon.png0#
+
+CCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconemail.png iconemail.png
+s287722716.072346
+e287722716.110836
+r1
+xCopyPNGFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconemail.png
+xiconemail.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/Feminina.app/iconemail.png iconemail.png287722716#287722716#0(0"0(0#0#46"/Users/Patricia/Desktop/Feminina/iconemail.png4300885448#551"    cd /Users/Patricia/Desktop/Feminina    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Patricia/Desktop/Feminina/iconemail.png /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconemail.png0#
+
+CCopyPNGFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconfavime.png iconfavime.png
+s287722716.215043
+e287722716.255511
+r1
+xCopyPNGFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconfavime.png
+xiconfavime.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/Feminina.app/iconfavime.png iconfavime.png287722716#287722716#0(0"0(0#0#47"/Users/Patricia/Desktop/Feminina/iconfavime.png4300885448#553"    cd /Users/Patricia/Desktop/Feminina    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/Patricia/Desktop/Feminina/iconfavime.png /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/iconfavime.png0#
+
+CCopyStringsFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s287722716.255596
+e287722716.447364
+r1
+xCopyStringsFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings287722716#287722716#0(0"0(0#0#66"/Users/Patricia/Desktop/Feminina/English.lproj/Localizable.strings4300885448#473"    cd /Users/Patricia/Desktop/Feminina    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/Localizable.strings --outdir /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/English.lproj0#
+
+CCopyStringsFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Localizable.strings Localizable.strings
+r0
+
+CCopyStringsFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/pt.lproj/Localizable.strings pt.lproj/Localizable.strings
+s287722716.273199
+e287722716.447586
+r1
+xCopyStringsFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/pt.lproj/Localizable.strings
+xpt.lproj/Localizable.strings
+opt.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy pt.lproj/Localizable.strings287722716#287722716#0(130"pt.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#61"/Users/Patricia/Desktop/Feminina/pt.lproj/Localizable.strings4300885448#462"    cd /Users/Patricia/Desktop/Feminina    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary pt.lproj/Localizable.strings --outdir /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/pt.lproj0#
+
+CCpResource build/Release-iphoneos/Feminina.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+s287722715.135443
+e287722715.146079
+r1
+xCpResource
+xbuild/Release-iphoneos/Feminina.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist287722715#287722715#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist7810779306051726336#492"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app0#
+
+CGenerateDSYMFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app.dSYM /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina
+s287722717.602564
+e287722717.637224
+r1
+xGenerateDSYMFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app.dSYM
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina
+lSLF07#2@102"GenerateDSYMFile build/Release-iphoneos/Feminina.app.dSYM build/Release-iphoneos/Feminina.app/Feminina287722717#287722717#0(0"0(0#0#77"/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina4300885448#351"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina -o /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app.dSYM0#
+
+CLd /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina normal armv6
+s287722717.476502
+e287722717.602476
+r1
+xLd
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina
+xnormal
+xarmv6
+old: warning: in /Users/Patricia/Desktop/Feminina/Classes/libAdMobSimulator.a, file is not of required architecture
+lSLF07#2@82"Link /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina287722717#287722717#0(115"ld: warning: in /Users/Patricia/Desktop/Feminina/Classes/libAdMobSimulator.a, file is not of required architecture1(22@101"In /Users/Patricia/Desktop/Feminina/Classes/libAdMobSimulator.a, file is not of required architecture287722717#0#115#0(6@0"287722717#0#0#0#0#0"0(0#0#0"4300885448#1104"    cd /Users/Patricia/Desktop/Feminina    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -L/Users/Patricia/Desktop/Feminina/build/Release-iphoneos -L/Users/Patricia/Desktop/Feminina/Classes -F/Users/Patricia/Desktop/Feminina/build/Release-iphoneos -filelist /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Objects-normal/armv6/Feminina.LinkFileList -mmacosx-version-min=10.5 -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework MessageUI -lAdMobDevice -lAdMobSimulator -lAdMobDeviceNoThumb -framework QuartzCore -framework CoreLocation -framework AddressBook -framework AudioToolbox -framework MediaPlayer -o /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Feminina0#
+
+CProcessInfoPlistFile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Info.plist Feminina-Info.plist
+s287722715.139196
+e287722715.142747
+r1
+xProcessInfoPlistFile
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Info.plist
+xFeminina-Info.plist
+lSLF07#2@27"Process Feminina-Info.plist287722715#287722715#0(0"0(0#0#52"/Users/Patricia/Desktop/Feminina/Feminina-Info.plist4300885448#548"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Feminina-Info.plist -genpkginfo /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/ResourceRules.plist -o /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/Info.plist0#
+
+CProcessPCH /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cexttxfvvpympcepdjnwjyyprker/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s287722716.447726
+e287722717.057312
+r1
+xProcessPCH
+x/var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cexttxfvvpympcepdjnwjyyprker/Feminina_Prefix.pch.gch
+xFeminina_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Feminina_Prefix.pch287722716#287722717#0(0"0(0#0#52"/Users/Patricia/Desktop/Feminina/Feminina_Prefix.pch7297572419087459328#1614"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Release-iphoneos -I/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources/armv6 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/DerivedSources -c /Users/Patricia/Desktop/Feminina/Feminina_Prefix.pch -o /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cexttxfvvpympcepdjnwjyyprker/Feminina_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/Patricia/Library/MobileDevice/Provisioning Profiles/BDEF95BE-175C-487D-8406-58F2D969D587.mobileprovision" /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/embedded.mobileprovision
+s287722717.637421
+e287722717.639027
+r1
+xProcessProductPackaging
+x/Users/Patricia/Library/MobileDevice/Provisioning Profiles/BDEF95BE-175C-487D-8406-58F2D969D587.mobileprovision
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/embedded.mobileprovision
+lSLF07#2@198"ProcessProductPackaging "/Users/Patricia/Library/MobileDevice/Provisioning Profiles/BDEF95BE-175C-487D-8406-58F2D969D587.mobileprovision" build/Release-iphoneos/Feminina.app/embedded.mobileprovision287722717#287722717#0(0"0(0#0#93"/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/embedded.mobileprovision4300885448#417"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/Patricia/Library/MobileDevice/Provisioning Profiles/BDEF95BE-175C-487D-8406-58F2D969D587.mobileprovision" -o /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina.xcent
+s287722717.643232
+e287722717.672865
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist
+x/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina.xcent
+lSLF07#2@180"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist build/Feminina.build/Release-iphoneos/Feminina.build/Feminina.xcent287722717#287722717#0(0"0(0#0#100"/Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina.xcent4300885448#425"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/Patricia/Desktop/Feminina/build/Feminina.build/Release-iphoneos/Feminina.build/Feminina.xcent0#
+
+CTouch /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app
+s287722717.639082
+e287722717.643145
+r1
+xTouch
+x/Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app
+lSLF07#2@74"Touch /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app287722717#287722717#0(0"0(0#0#0"4300885448#255"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Patricia/Desktop/Feminina/build/Release-iphoneos/Feminina.app0#
+

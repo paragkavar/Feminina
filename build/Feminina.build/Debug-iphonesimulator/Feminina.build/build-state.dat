@@ -1,0 +1,1794 @@
+TFeminina
+v7
+r0
+t316660164.967936
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Info.plist" Feminina-Info.plist
+cCompileXIB "/Users/Diego/Desktop/Feminina 2/MainWindow.xib"
+cCompileXIB "/Users/Diego/Desktop/Feminina 2/English.lproj/FemininaViewController.xib"
+cCompileXIB "/Users/Diego/Desktop/Feminina 2/pt.lproj/FemininaViewController.xib"
+cCpResource build/Debug-iphonesimulator/Feminina.app/background.png background.png
+cCpResource build/Debug-iphonesimulator/Feminina.app/btcalculate.png btcalculate.png
+cCpResource build/Debug-iphonesimulator/Feminina.app/btcalculatepressed.png btcalculatepressed.png
+cCpResource build/Debug-iphonesimulator/Feminina.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/Feminina.app/iconemail.png iconemail.png
+cCpResource build/Debug-iphonesimulator/Feminina.app/bgaboutad.png bgaboutad.png
+cCpResource build/Debug-iphonesimulator/Feminina.app/iconfavime.png iconfavime.png
+cCopyStringsFile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+cCopyStringsFile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/Localizable.strings" pt.lproj/Localizable.strings
+cProcessPCH /var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-amutryzwtokvugcxjczorvdngywc/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o "/Users/Diego/Desktop/Feminina 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o "/Users/Diego/Desktop/Feminina 2/Classes/FemininaAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o "/Users/Diego/Desktop/Feminina 2/Classes/FemininaViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina" normal i386
+cGenerateDSYMFile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app.dSYM" "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina"
+cTouch "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004B7030FB00000000000000EE
+t1265643771
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004A0BB46C0000000000032300
+t1242281068
+s205568
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A0DADCB0000000000180330
+t1242410443
+s1573680
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A0CD38B0000000000041070
+t1242354571
+s266352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A0CD38600000000000001AF
+t1242354566
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A0E25B700000000000BD650
+t1242441143
+s775760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004A0BC1CE0000000000000092
+t1242284494
+s146
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004A0BC1D70000000000066700
+t1242284503
+s419584
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A0BAE3400000000000E4270
+t1242279476
+s934512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B70305C00000000000000EE
+t1265643612
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004B2B51AB000000000003E730
+t1261130155
+s255792
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B2B4D460000000000193960
+t1261129030
+s1653088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61C3000000000004AFC0
+t1261134275
+s307136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61BC00000000000001AF
+t1261134268
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004B2B64D200000000000CB600
+t1261135058
+s833024
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004B2B634E0000000000000092
+t1261134670
+s146
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004B2B635E0000000000069ED0
+t1261134686
+s433872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B2B540C00000000000E5890
+t1261130764
+s940176
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004B70310200000000000000EE
+t1265643778
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004A765A9C000000000003D3B0
+t1249270428
+s250800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004A76502000000000001925E0
+t1249267744
+s1648096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026DAB0
+t1250040081
+s2546352
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004A77B1210000000000049C70
+t1249358113
+s302192
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004A77B11D00000000000001AF
+t1249358109
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027D510
+t1249267860
+s2610448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004A860FEA00000000000CA290
+t1250299882
+s828048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004A76678F0000000000000092
+t1249273743
+s146
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004A7667960000000000068B50
+t1249273750
+s428880
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004A76560A00000000000E4510
+t1249269258
+s935184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F590000000001670E70
+t1249668953
+s23531120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004CC122E10000000000075FE0
+t1287725793
+s483296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Diego/Desktop/Feminina 2/Classes/AdMobDelegateProtocol.h
+c000000004B74900E0000000000001683
+t1265930254
+s5763
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Desktop/Feminina 2/Classes/AdMobView.h
+c000000004B74900E0000000000000579
+t1265930254
+s1401
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Desktop/Feminina 2/Classes/AdViewController.h
+c000000004B74900E0000000000000537
+t1265930254
+s1335
+i<UIKit/UIKit.h>
+i"AdMobDelegateProtocol.h"
+
+N/Users/Diego/Desktop/Feminina 2/Classes/AdViewController.m
+c000000004B75E9340000000000000C52
+t1266018612
+s3154
+i"AdMobView.h"
+i"AdViewController.h"
+
+N/Users/Diego/Desktop/Feminina 2/Classes/FemininaAppDelegate.h
+c000000004D2F9ED200000000000001D2
+t1294966482
+s466
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Desktop/Feminina 2/Classes/FemininaAppDelegate.m
+c000000004D2FA07D0000000000000222
+t1294966909
+s546
+i"FemininaAppDelegate.h"
+i"FemininaViewController.h"
+
+N/Users/Diego/Desktop/Feminina 2/Classes/FemininaViewController.h
+c000000004D2FA0B20000000000000494
+t1294966962
+s1172
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+
+N/Users/Diego/Desktop/Feminina 2/Classes/FemininaViewController.m
+c000000004D2FA23600000000000018A4
+t1294967350
+s6308
+i"FemininaViewController.h"
+
+N/Users/Diego/Desktop/Feminina 2/Classes/libAdMobDevice.a
+c000000004B74900E0000000000092690
+t1265930254
+s599696
+
+N/Users/Diego/Desktop/Feminina 2/Classes/libAdMobDeviceNoThumb.a
+c000000004B74900E000000000009DC60
+t1265930254
+s646240
+
+N/Users/Diego/Desktop/Feminina 2/Classes/libAdMobSimulator.a
+c000000004B74900E000000000009CAF0
+t1265930254
+s641776
+
+N/Users/Diego/Desktop/Feminina 2/English.lproj/FemininaViewController.xib
+c000000004D2F9F02000000000001047A
+t1294966530
+s66682
+
+N/Users/Diego/Desktop/Feminina 2/English.lproj/Localizable.strings
+c000000004B761198000000000000049A
+t1266028952
+s1178
+
+N/Users/Diego/Desktop/Feminina 2/Feminina_Prefix.pch
+c000000004B74B44E00000000000000B9
+t1265939534
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Desktop/Feminina 2/MainWindow.xib
+c000000004B74B44E0000000000002459
+t1265939534
+s9305
+
+N/Users/Diego/Desktop/Feminina 2/background.png
+c000000004B6CFEA4000000000000129E
+t1265434276
+s4766
+
+N/Users/Diego/Desktop/Feminina 2/bgaboutad.png
+c000000004B75ED300000000000002A74
+t1266019632
+s10868
+
+N/Users/Diego/Desktop/Feminina 2/btcalculate.png
+c000000004B6CD2360000000000010FF2
+t1265422902
+s69618
+
+N/Users/Diego/Desktop/Feminina 2/btcalculatepressed.png
+c000000004B6CFCB8000000000000FDFA
+t1265433784
+s65018
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app
+t1294967364
+s510
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app.dSYM
+t1294967364
+s102
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/FemininaViewController.nib
+t1294966990
+s6074
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/Localizable.strings
+t1294964993
+s412
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina
+t1294967364
+s29764
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Info.plist
+t1294967281
+s678
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/MainWindow.nib
+t1294964992
+s1101
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/PkgInfo
+t1294967281
+s8
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/background.png
+t1294964992
+s4766
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/bgaboutad.png
+t1294964993
+s10868
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/btcalculate.png
+t1294964993
+s69618
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/btcalculatepressed.png
+t1294964992
+s65018
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/icon.png
+t1294964992
+s5079
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/iconemail.png
+t1294964993
+s3918
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/iconfavime.png
+t1294964993
+s99781
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/FemininaViewController.nib
+t1294964993
+s6220
+
+N/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/Localizable.strings
+t1294964993
+s666
+
+N/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o
+t1294964994
+s47228
+
+N/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/Feminina.LinkFileList
+c000000004D2F9B7D0000000000000180
+t1294965629
+s384
+
+N/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o
+t1294966990
+s49532
+
+N/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o
+t1294967364
+s72712
+
+N/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o
+t1294966990
+s6288
+
+N/Users/Diego/Desktop/Feminina 2/icon.png
+c000000004B707C5600000000000013D7
+t1265663062
+s5079
+
+N/Users/Diego/Desktop/Feminina 2/iconemail.png
+c000000004A47F1500000000000000F4E
+t1246228816
+s3918
+
+N/Users/Diego/Desktop/Feminina 2/iconfavime.png
+c000000004B7330D600000000000185C5
+t1265840342
+s99781
+
+N/Users/Diego/Desktop/Feminina 2/main.m
+c000000004D2F9E110000000000000167
+t1294966289
+s359
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Desktop/Feminina 2/pt.lproj/FemininaViewController.xib
+c000000004B7603DC000000000000E835
+t1266025436
+s59445
+
+N/Users/Diego/Desktop/Feminina 2/pt.lproj/Localizable.strings
+c000000004B76154A00000000000004A0
+t1266029898
+s1184
+
+N/Users/Diego/Projects/Feminina/Classes/FemininaAppDelegate.h
+c000000004D2F9ED200000000000001D2
+t1294966482
+s466
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Projects/Feminina/Classes/FemininaAppDelegate.m
+c000000004D2FA07D0000000000000222
+t1294966909
+s546
+i"FemininaAppDelegate.h"
+i"FemininaViewController.h"
+
+N/Users/Diego/Projects/Feminina/Classes/FemininaViewController.h
+c000000004D2FA0B20000000000000494
+t1294966962
+s1172
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+
+N/Users/Diego/Projects/Feminina/Classes/FemininaViewController.m
+c000000004D2FA23600000000000018A4
+t1294967350
+s6308
+i"FemininaViewController.h"
+
+N/Users/Diego/Projects/Feminina/English.lproj/FemininaViewController.xib
+c000000004D2F9F02000000000001047A
+t1294966530
+s66682
+
+N/Users/Diego/Projects/Feminina/English.lproj/Localizable.strings
+c000000004B761198000000000000049A
+t1266028952
+s1178
+
+N/Users/Diego/Projects/Feminina/Feminina_Prefix.pch
+c000000004B74B44E00000000000000B9
+t1265939534
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Projects/Feminina/MainWindow.xib
+c000000004B74B44E0000000000002459
+t1265939534
+s9305
+
+N/Users/Diego/Projects/Feminina/background.png
+c000000004B6CFEA4000000000000129E
+t1265434276
+s4766
+
+N/Users/Diego/Projects/Feminina/bgaboutad.png
+c000000004B75ED300000000000002A74
+t1266019632
+s10868
+
+N/Users/Diego/Projects/Feminina/btcalculate.png
+c000000004B6CD2360000000000010FF2
+t1265422902
+s69618
+
+N/Users/Diego/Projects/Feminina/btcalculatepressed.png
+c000000004B6CFCB8000000000000FDFA
+t1265433784
+s65018
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app
+t1294967364
+s510
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app.dSYM
+t1294967364
+s102
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/English.lproj/FemininaViewController.nib
+t1294966990
+s6074
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/English.lproj/Localizable.strings
+t1294964993
+s412
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina
+t1294967364
+s29764
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/Info.plist
+t1294967281
+s678
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/MainWindow.nib
+t1294964992
+s1101
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/PkgInfo
+t1294967281
+s8
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/background.png
+t1294964992
+s4766
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/bgaboutad.png
+t1294964993
+s10868
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/btcalculate.png
+t1294964993
+s69618
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/btcalculatepressed.png
+t1294964992
+s65018
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/icon.png
+t1294964992
+s5079
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/iconemail.png
+t1294964993
+s3918
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/iconfavime.png
+t1294964993
+s99781
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/pt.lproj/FemininaViewController.nib
+t1294964993
+s6220
+
+N/Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/pt.lproj/Localizable.strings
+t1294964993
+s666
+
+N/Users/Diego/Projects/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/Feminina.LinkFileList
+c000000004D2F9B7D0000000000000180
+t1294965629
+s384
+
+N/Users/Diego/Projects/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o
+t1294966990
+s49532
+
+N/Users/Diego/Projects/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o
+t1294967364
+s72712
+
+N/Users/Diego/Projects/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o
+t1294966990
+s6288
+
+N/Users/Diego/Projects/Feminina/icon.png
+c000000004B707C5600000000000013D7
+t1265663062
+s5079
+
+N/Users/Diego/Projects/Feminina/iconemail.png
+c000000004A47F1500000000000000F4E
+t1246228816
+s3918
+
+N/Users/Diego/Projects/Feminina/iconfavime.png
+c000000004B7330D600000000000185C5
+t1265840342
+s99781
+
+N/Users/Diego/Projects/Feminina/main.m
+c000000004D2F9E110000000000000167
+t1294966289
+s359
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Projects/Feminina/pt.lproj/FemininaViewController.xib
+c000000004B7603DC000000000000E835
+t1266025436
+s59445
+
+N/Users/Diego/Projects/Feminina/pt.lproj/Localizable.strings
+c000000004B76154A00000000000004A0
+t1266029898
+s1184
+
+N/Users/Diego/Projetos/Feminina 2/Classes/AdMobDelegateProtocol.h
+c000000004B74900E0000000000001683
+t1265930254
+s5763
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Projetos/Feminina 2/Classes/AdMobView.h
+c000000004B74900E0000000000000579
+t1265930254
+s1401
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Projetos/Feminina 2/Classes/AdViewController.h
+c000000004B74900E0000000000000537
+t1265930254
+s1335
+i<UIKit/UIKit.h>
+i"AdMobDelegateProtocol.h"
+
+N/Users/Diego/Projetos/Feminina 2/Classes/AdViewController.m
+c000000004B75E9350000000000000C52
+t1266018613
+s3154
+i"AdMobView.h"
+i"AdViewController.h"
+
+N/Users/Diego/Projetos/Feminina 2/Classes/FemininaAppDelegate.h
+c000000004B74BB8600000000000001E3
+t1265941382
+s483
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Projetos/Feminina 2/Classes/FemininaAppDelegate.m
+c000000004B74BB7A000000000000026D
+t1265941370
+s621
+i"FemininaAppDelegate.h"
+i"FemininaViewController.h"
+
+N/Users/Diego/Projetos/Feminina 2/Classes/FemininaViewController.h
+c000000004B74BB6C0000000000000480
+t1265941356
+s1152
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+
+N/Users/Diego/Projetos/Feminina 2/Classes/FemininaViewController.m
+c000000004B760FB30000000000001C54
+t1266028467
+s7252
+i"FemininaViewController.h"
+
+N/Users/Diego/Projetos/Feminina 2/Classes/libAdMobDevice.a
+c000000004B74900E0000000000092690
+t1265930254
+s599696
+
+N/Users/Diego/Projetos/Feminina 2/Classes/libAdMobDeviceNoThumb.a
+c000000004B74900E000000000009DC60
+t1265930254
+s646240
+
+N/Users/Diego/Projetos/Feminina 2/Classes/libAdMobSimulator.a
+c000000004B74900E000000000009CAF0
+t1265930254
+s641776
+
+N/Users/Diego/Projetos/Feminina 2/English.lproj/FemininaViewController.xib
+c000000004B7627D0000000000000E786
+t1266034640
+s59270
+
+N/Users/Diego/Projetos/Feminina 2/English.lproj/Localizable.strings
+c000000004B761199000000000000049A
+t1266028953
+s1178
+
+N/Users/Diego/Projetos/Feminina 2/Feminina_Prefix.pch
+c000000004B74B44F00000000000000B9
+t1265939535
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Projetos/Feminina 2/MainWindow.xib
+c000000004B74B44F0000000000002459
+t1265939535
+s9305
+
+N/Users/Diego/Projetos/Feminina 2/background.png
+c000000004B6CFEA5000000000000129E
+t1265434277
+s4766
+
+N/Users/Diego/Projetos/Feminina 2/bgaboutad.png
+c000000004B75ED300000000000002A74
+t1266019632
+s10868
+
+N/Users/Diego/Projetos/Feminina 2/btcalculate.png
+c000000004B6CD2370000000000010FF2
+t1265422903
+s69618
+
+N/Users/Diego/Projetos/Feminina 2/btcalculatepressed.png
+c000000004B6CFCB9000000000000FDFA
+t1265433785
+s65018
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app
+t1266082287
+s612
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app.dSYM
+t1266082287
+s102
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/FemininaViewController.nib
+t1266082285
+s6174
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/Localizable.strings
+t1266082185
+s412
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina
+t1266082287
+s327808
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Info.plist
+t1266082179
+s677
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/MainWindow.nib
+t1266020143
+s1497
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/PkgInfo
+t1266082179
+s8
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/background.png
+t1265940700
+s4766
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/bgaboutad.png
+t1266020144
+s10868
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/btcalculate.png
+t1265940700
+s69618
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/btcalculatepressed.png
+t1265940700
+s65018
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/icon.png
+t1265940700
+s5079
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/iconemail.png
+t1265940700
+s3918
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/iconfavime.png
+t1266023053
+s99781
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/FemininaViewController.nib
+t1266082285
+s6263
+
+N/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/Localizable.strings
+t1266082185
+s666
+
+N/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o
+t1266082286
+s37240
+
+N/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/Feminina.LinkFileList
+c000000004B76E1830000000000000205
+t1266082179
+s517
+
+N/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o
+t1266082286
+s39168
+
+N/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o
+t1266082286
+s59612
+
+N/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o
+t1266082286
+s5940
+
+N/Users/Diego/Projetos/Feminina 2/icon.png
+c000000004B707C5700000000000013D7
+t1265663063
+s5079
+
+N/Users/Diego/Projetos/Feminina 2/iconemail.png
+c000000004A47F1510000000000000F4E
+t1246228817
+s3918
+
+N/Users/Diego/Projetos/Feminina 2/iconfavime.png
+c000000004B7330D600000000000185C5
+t1265840342
+s99781
+
+N/Users/Diego/Projetos/Feminina 2/main.m
+c000000004B74BB9A0000000000000168
+t1265941402
+s360
+i<UIKit/UIKit.h>
+
+N/Users/Diego/Projetos/Feminina 2/pt.lproj/FemininaViewController.xib
+c000000004B7603DC000000000000E835
+t1266025436
+s59445
+
+N/Users/Diego/Projetos/Feminina 2/pt.lproj/Localizable.strings
+c000000004B76154A00000000000004A0
+t1266029898
+s1184
+
+N/Users/Patricia/Desktop/Feminina/Classes/AdMobDelegateProtocol.h
+c000000004B74900E0000000000001683
+t1265930254
+s5763
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/Classes/AdMobView.h
+c000000004B74900E0000000000000579
+t1265930254
+s1401
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/Classes/AdViewController.h
+c000000004B74900E0000000000000537
+t1265930254
+s1335
+i<UIKit/UIKit.h>
+i"AdMobDelegateProtocol.h"
+
+N/Users/Patricia/Desktop/Feminina/Classes/AdViewController.m
+c000000004B75E9350000000000000C52
+t1266018613
+s3154
+i"AdMobView.h"
+i"AdViewController.h"
+
+N/Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.h
+c000000004B74BB8600000000000001E3
+t1265941382
+s483
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m
+c000000004B74BB7A000000000000026D
+t1265941370
+s621
+i"FemininaAppDelegate.h"
+i"FemininaViewController.h"
+
+N/Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.h
+c000000004B74BB6C0000000000000480
+t1265941356
+s1152
+i<UIKit/UIKit.h>
+i<MessageUI/MessageUI.h>
+
+N/Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m
+c000000004B74BB5C0000000000001C54
+t1265941340
+s7252
+i"FemininaViewController.h"
+
+N/Users/Patricia/Desktop/Feminina/Classes/libAdMobDevice.a
+c000000004B74900E0000000000092690
+t1265930254
+s599696
+
+N/Users/Patricia/Desktop/Feminina/Classes/libAdMobDeviceNoThumb.a
+c000000004B74900E000000000009DC60
+t1265930254
+s646240
+
+N/Users/Patricia/Desktop/Feminina/Classes/libAdMobSimulator.a
+c000000004B74900E000000000009CAF0
+t1265930254
+s641776
+
+N/Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib
+c000000004B7603CC000000000000E783
+t1266025420
+s59267
+
+N/Users/Patricia/Desktop/Feminina/FemininaViewController.xib
+c000000004B74BD6F000000000000B978
+t1265941871
+s47480
+
+N/Users/Patricia/Desktop/Feminina/Feminina_Prefix.pch
+c000000004B74B44F00000000000000B9
+t1265939535
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/MainWindow.xib
+c000000004B74B44F0000000000002459
+t1265939535
+s9305
+
+N/Users/Patricia/Desktop/Feminina/background.png
+c000000004B6CFEA5000000000000129E
+t1265434277
+s4766
+
+N/Users/Patricia/Desktop/Feminina/bgaboutad.png
+c000000004B75ED300000000000002A74
+t1266019632
+s10868
+
+N/Users/Patricia/Desktop/Feminina/btcalculate.png
+c000000004B6CD2370000000000010FF2
+t1265422903
+s69618
+
+N/Users/Patricia/Desktop/Feminina/btcalculatepressed.png
+c000000004B6CFCB9000000000000FDFA
+t1265433785
+s65018
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app
+t1266023054
+s612
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app.dSYM
+t1266020145
+s102
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/English.lproj/FemininaViewController.nib
+t1266023054
+s9087
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina
+t1266020145
+s327808
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/FemininaViewController.nib
+t1265941874
+s7008
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Info.plist
+t1265940700
+s631
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/MainWindow.nib
+t1266020143
+s1497
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/PkgInfo
+t1265940700
+s8
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/background.png
+t1265940700
+s4766
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/bgaboutad.png
+t1266020144
+s10868
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/btcalculate.png
+t1265940700
+s69618
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/btcalculatepressed.png
+t1265940700
+s65018
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/icon.png
+t1265940700
+s5079
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/iconemail.png
+t1265940700
+s3918
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/iconfavime.png
+t1266023053
+s99781
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/logofavime.png
+t1265940700
+s6767
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/pt.lproj/FemininaViewController.nib
+t1266020144
+s7161
+
+N/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/pt_PT.lproj/FemininaViewController.nib
+t1265942563
+s7048
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o
+t1266020145
+s37056
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/Feminina.LinkFileList
+c000000004B75EF2F0000000000000205
+t1266020143
+s517
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o
+t1266020145
+s38844
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o
+t1266020145
+s59428
+
+N/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o
+t1266020145
+s5940
+
+N/Users/Patricia/Desktop/Feminina/icon.png
+c000000004B707C5700000000000013D7
+t1265663063
+s5079
+
+N/Users/Patricia/Desktop/Feminina/iconemail.png
+c000000004A47F1510000000000000F4E
+t1246228817
+s3918
+
+N/Users/Patricia/Desktop/Feminina/iconfavime.png
+c000000004B7330D600000000000185C5
+t1265840342
+s99781
+
+N/Users/Patricia/Desktop/Feminina/logofavime.png
+c000000004B70CB750000000000001A6F
+t1265683317
+s6767
+
+N/Users/Patricia/Desktop/Feminina/main.m
+c000000004B74BB9A0000000000000168
+t1265941402
+s360
+i<UIKit/UIKit.h>
+
+N/Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib
+c000000004B7603DC000000000000E835
+t1266025436
+s59445
+
+N/Users/Patricia/Desktop/Feminina/pt_PT.lproj/FemininaViewController.xib
+c000000004B74C01C000000000000B912
+t1265942556
+s47378
+
+N/var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cotvufyqpbffenbrasdkmbudzazi/Feminina_Prefix.pch.gch
+t1265940701
+s13034960
+
+N/var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-czdcoeuznxwzelaryszeelivxprx/Feminina_Prefix.pch.gch
+t1266020145
+s12957072
+
+N/var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-amutryzwtokvugcxjczorvdngywc/Feminina_Prefix.pch.gch
+t1294964994
+s15453392
+
+N/var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-axhprivsnigxzmbwmgbsgihbwisq/Feminina_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-daeqtbmwydyrclevuqbdvzetqnjv/Feminina_Prefix.pch.gch
+t1266082188
+s13034960
+
+N/var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-dglqcnhkgcpdeicyuuiuvyoyhxzj/Feminina_Prefix.pch.gch
+t1266082286
+s13034960
+
+N/var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-eiutvelwwcglbrdvwbahzkmeppws/Feminina_Prefix.pch.gch
+t2
+s0
+
+NFeminina-Info.plist
+c000000004D2FA1F100000000000003DE
+t1294967281
+s990
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316660164#316660164#0(0"0(0#1#0"8607167392#0"0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o "/Users/Diego/Desktop/Feminina 2/Classes/AdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316657794.470266
+e316657794.576929
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o
+x/Users/Diego/Desktop/Feminina 2/Classes/AdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/Diego/Desktop/Feminina 2/Classes/AdViewController.m316657794#316657794#0(0"0(0#0#58"/Users/Diego/Desktop/Feminina 2/Classes/AdViewController.m8607597024#1911"    cd "/Users/Diego/Desktop/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -include /var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-amutryzwtokvugcxjczorvdngywc/Feminina_Prefix.pch -c "/Users/Diego/Desktop/Feminina 2/Classes/AdViewController.m" -o "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o"0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o "/Users/Diego/Projetos/Feminina 2/Classes/AdViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287775086.365742
+e287775086.487098
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o
+x/Users/Diego/Projetos/Feminina 2/Classes/AdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Diego/Projetos/Feminina 2/Classes/AdViewController.m287775086#287775086#0(0"0(0#0#59"/Users/Diego/Projetos/Feminina 2/Classes/AdViewController.m4300885448#1865"    cd "/Users/Diego/Projetos/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -include /var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-dglqcnhkgcpdeicyuuiuvyoyhxzj/Feminina_Prefix.pch -c "/Users/Diego/Projetos/Feminina 2/Classes/AdViewController.m" -o "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o"0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o /Users/Patricia/Desktop/Feminina/Classes/AdViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287712945.345109
+e287712945.447079
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o
+x/Users/Patricia/Desktop/Feminina/Classes/AdViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Patricia/Desktop/Feminina/Classes/AdViewController.m287712945#287712945#0(0"0(0#0#59"/Users/Patricia/Desktop/Feminina/Classes/AdViewController.m4300885448#1843"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator -I/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources -include /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-czdcoeuznxwzelaryszeelivxprx/Feminina_Prefix.pch -c /Users/Patricia/Desktop/Feminina/Classes/AdViewController.m -o /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/AdViewController.o0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o "/Users/Diego/Desktop/Feminina 2/Classes/FemininaAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316659790.736102
+e316659790.829624
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o
+x/Users/Diego/Desktop/Feminina 2/Classes/FemininaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Diego/Desktop/Feminina 2/Classes/FemininaAppDelegate.m316659790#316659790#0(0"0(0#0#61"/Users/Diego/Desktop/Feminina 2/Classes/FemininaAppDelegate.m8607744320#1917"    cd "/Users/Diego/Desktop/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -include /var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-amutryzwtokvugcxjczorvdngywc/Feminina_Prefix.pch -c "/Users/Diego/Desktop/Feminina 2/Classes/FemininaAppDelegate.m" -o "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o"0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o "/Users/Diego/Projetos/Feminina 2/Classes/FemininaAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287775086.202203
+e287775086.365650
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o
+x/Users/Diego/Projetos/Feminina 2/Classes/FemininaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Diego/Projetos/Feminina 2/Classes/FemininaAppDelegate.m287775086#287775086#0(0"0(0#0#62"/Users/Diego/Projetos/Feminina 2/Classes/FemininaAppDelegate.m4300885448#1871"    cd "/Users/Diego/Projetos/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -include /var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-dglqcnhkgcpdeicyuuiuvyoyhxzj/Feminina_Prefix.pch -c "/Users/Diego/Projetos/Feminina 2/Classes/FemininaAppDelegate.m" -o "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o"0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o /Users/Diego/Projects/Feminina/Classes/FemininaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o /Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287712945.252660
+e287712945.345002
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o
+x/Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m287712945#287712945#0(0"0(0#0#62"/Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m4300885448#1849"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator -I/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources -include /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-czdcoeuznxwzelaryszeelivxprx/Feminina_Prefix.pch -c /Users/Patricia/Desktop/Feminina/Classes/FemininaAppDelegate.m -o /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaAppDelegate.o0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o "/Users/Diego/Desktop/Feminina 2/Classes/FemininaViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316660164.772219
+e316660164.900164
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o
+x/Users/Diego/Desktop/Feminina 2/Classes/FemininaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/Diego/Desktop/Feminina 2/Classes/FemininaViewController.m316660164#316660164#0(0"0(0#0#64"/Users/Diego/Desktop/Feminina 2/Classes/FemininaViewController.m8607104992#1923"    cd "/Users/Diego/Desktop/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -include /var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-amutryzwtokvugcxjczorvdngywc/Feminina_Prefix.pch -c "/Users/Diego/Desktop/Feminina 2/Classes/FemininaViewController.m" -o "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o"0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o "/Users/Diego/Projetos/Feminina 2/Classes/FemininaViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287775086.246291
+e287775086.406607
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o
+x/Users/Diego/Projetos/Feminina 2/Classes/FemininaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Diego/Projetos/Feminina 2/Classes/FemininaViewController.m287775086#287775086#0(0"0(0#0#65"/Users/Diego/Projetos/Feminina 2/Classes/FemininaViewController.m4300885448#1877"    cd "/Users/Diego/Projetos/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -include /var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-dglqcnhkgcpdeicyuuiuvyoyhxzj/Feminina_Prefix.pch -c "/Users/Diego/Projetos/Feminina 2/Classes/FemininaViewController.m" -o "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o"0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o /Users/Diego/Projects/Feminina/Classes/FemininaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o /Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287712945.340649
+e287712945.494266
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o
+x/Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m287712945#287712945#0(0"0(0#0#65"/Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m4300885448#1855"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator -I/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources -include /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-czdcoeuznxwzelaryszeelivxprx/Feminina_Prefix.pch -c /Users/Patricia/Desktop/Feminina/Classes/FemininaViewController.m -o /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/FemininaViewController.o0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o "/Users/Diego/Desktop/Feminina 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316659790.735062
+e316659790.787211
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o
+x/Users/Diego/Desktop/Feminina 2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Diego/Desktop/Feminina 2/main.m316659790#316659790#0(0"0(0#0#38"/Users/Diego/Desktop/Feminina 2/main.m8608101088#1879"    cd "/Users/Diego/Desktop/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -include /var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-amutryzwtokvugcxjczorvdngywc/Feminina_Prefix.pch -c "/Users/Diego/Desktop/Feminina 2/main.m" -o "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o "/Users/Diego/Projetos/Feminina 2/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s287775086.201041
+e287775086.246201
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o
+x/Users/Diego/Projetos/Feminina 2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Diego/Projetos/Feminina 2/main.m287775086#287775086#0(0"0(0#0#39"/Users/Diego/Projetos/Feminina 2/main.m4300885448#1833"    cd "/Users/Diego/Projetos/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -include /var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-dglqcnhkgcpdeicyuuiuvyoyhxzj/Feminina_Prefix.pch -c "/Users/Diego/Projetos/Feminina 2/main.m" -o "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o /Users/Diego/Projects/Feminina/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o /Users/Patricia/Desktop/Feminina/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287712945.251608
+e287712945.340423
+r1
+xCompileC
+xbuild/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o
+x/Users/Patricia/Desktop/Feminina/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/Patricia/Desktop/Feminina/main.m287712945#287712945#0(0"0(0#0#39"/Users/Patricia/Desktop/Feminina/main.m4300885448#1811"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator -I/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources -include /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-czdcoeuznxwzelaryszeelivxprx/Feminina_Prefix.pch -c /Users/Patricia/Desktop/Feminina/main.m -o /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/Diego/Desktop/Feminina 2/English.lproj/FemininaViewController.xib"
+s316659790.137282
+e316659790.734838
+r1
+xCompileXIB
+x/Users/Diego/Desktop/Feminina 2/English.lproj/FemininaViewController.xib
+lSLF07#2@51"CompileXIB English.lproj/FemininaViewController.xib316659790#316659790#0(0"0(0#0#72"/Users/Diego/Desktop/Feminina 2/English.lproj/FemininaViewController.xib8611422912#608"    cd "/Users/Diego/Desktop/Feminina 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/FemininaViewController.nib" "/Users/Diego/Desktop/Feminina 2/English.lproj/FemininaViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Diego/Desktop/Feminina 2/MainWindow.xib"
+s316657792.042663
+e316657792.477040
+r1
+xCompileXIB
+x/Users/Diego/Desktop/Feminina 2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316657792#316657792#0(0"0(0#0#46"/Users/Diego/Desktop/Feminina 2/MainWindow.xib8606390368#556"    cd "/Users/Diego/Desktop/Feminina 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/MainWindow.nib" "/Users/Diego/Desktop/Feminina 2/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Diego/Desktop/Feminina 2/pt.lproj/FemininaViewController.xib"
+s316657792.477134
+e316657793.225241
+r1
+xCompileXIB
+x/Users/Diego/Desktop/Feminina 2/pt.lproj/FemininaViewController.xib
+lSLF07#2@46"CompileXIB pt.lproj/FemininaViewController.xib316657792#316657793#0(0"0(0#0#67"/Users/Diego/Desktop/Feminina 2/pt.lproj/FemininaViewController.xib8607153632#598"    cd "/Users/Diego/Desktop/Feminina 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/FemininaViewController.nib" "/Users/Diego/Desktop/Feminina 2/pt.lproj/FemininaViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Diego/Projetos/Feminina 2/English.lproj/FemininaViewController.xib"
+s287775084.950387
+e287775085.451495
+r1
+xCompileXIB
+x/Users/Diego/Projetos/Feminina 2/English.lproj/FemininaViewController.xib
+lSLF07#2@51"CompileXIB English.lproj/FemininaViewController.xib287775084#287775085#0(0"0(0#0#73"/Users/Diego/Projetos/Feminina 2/English.lproj/FemininaViewController.xib4300885448#521"    cd "/Users/Diego/Projetos/Feminina 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/FemininaViewController.nib" "/Users/Diego/Projetos/Feminina 2/English.lproj/FemininaViewController.xib"0#
+
+CCompileXIB "/Users/Diego/Projetos/Feminina 2/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Diego/Projetos/Feminina 2/pt.lproj/FemininaViewController.xib"
+s287775084.952160
+e287775085.450783
+r1
+xCompileXIB
+x/Users/Diego/Projetos/Feminina 2/pt.lproj/FemininaViewController.xib
+lSLF07#2@46"CompileXIB pt.lproj/FemininaViewController.xib287775084#287775085#0(0"0(0#0#68"/Users/Diego/Projetos/Feminina 2/pt.lproj/FemininaViewController.xib4300885448#511"    cd "/Users/Diego/Projetos/Feminina 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/FemininaViewController.nib" "/Users/Diego/Projetos/Feminina 2/pt.lproj/FemininaViewController.xib"0#
+
+CCompileXIB /Users/Diego/Projects/Feminina/English.lproj/FemininaViewController.xib
+r0
+
+CCompileXIB /Users/Diego/Projects/Feminina/MainWindow.xib
+r0
+
+CCompileXIB /Users/Diego/Projects/Feminina/pt.lproj/FemininaViewController.xib
+r0
+
+CCompileXIB /Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib
+s287715853.867266
+e287715854.537735
+r1
+xCompileXIB
+x/Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib
+lSLF07#2@51"CompileXIB English.lproj/FemininaViewController.xib287715853#287715854#0(0"0(0#0#73"/Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib28429423624978528#515"    cd /Users/Patricia/Desktop/Feminina    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/English.lproj/FemininaViewController.nib /Users/Patricia/Desktop/Feminina/English.lproj/FemininaViewController.xib0#
+
+CCompileXIB /Users/Patricia/Desktop/Feminina/FemininaViewController.xib
+s287634673.707079
+e287634674.146834
+r1
+xCompileXIB
+x/Users/Patricia/Desktop/Feminina/FemininaViewController.xib
+lSLF07#2@37"CompileXIB FemininaViewController.xib287634673#287634674#0(0"0(0#0#59"/Users/Patricia/Desktop/Feminina/FemininaViewController.xib4300885448#489"    cd /Users/Patricia/Desktop/Feminina    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/FemininaViewController.nib /Users/Patricia/Desktop/Feminina/FemininaViewController.xib0#
+
+CCompileXIB /Users/Patricia/Desktop/Feminina/MainWindow.xib
+s287712943.573775
+e287712943.885831
+r1
+xCompileXIB
+x/Users/Patricia/Desktop/Feminina/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib287712943#287712943#0(0"0(0#0#47"/Users/Patricia/Desktop/Feminina/MainWindow.xib4300885448#463"    cd /Users/Patricia/Desktop/Feminina    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/MainWindow.nib /Users/Patricia/Desktop/Feminina/MainWindow.xib0#
+
+CCompileXIB /Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib
+s287712943.885912
+e287712944.513803
+r1
+xCompileXIB
+x/Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib
+lSLF07#2@46"CompileXIB pt.lproj/FemininaViewController.xib287712943#287712944#0(0"0(0#0#68"/Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib4300885448#505"    cd /Users/Patricia/Desktop/Feminina    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/pt.lproj/FemininaViewController.nib /Users/Patricia/Desktop/Feminina/pt.lproj/FemininaViewController.xib0#
+
+CCompileXIB /Users/Patricia/Desktop/Feminina/pt_PT.lproj/FemininaViewController.xib
+s287635363.029406
+e287635363.473939
+r1
+xCompileXIB
+x/Users/Patricia/Desktop/Feminina/pt_PT.lproj/FemininaViewController.xib
+lSLF07#2@49"CompileXIB pt_PT.lproj/FemininaViewController.xib287635363#287635363#0(0"0(0#0#71"/Users/Patricia/Desktop/Feminina/pt_PT.lproj/FemininaViewController.xib18859334547341416#513"    cd /Users/Patricia/Desktop/Feminina    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/pt_PT.lproj/FemininaViewController.nib /Users/Patricia/Desktop/Feminina/pt_PT.lproj/FemininaViewController.xib0#
+
+CCopyStringsFile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+s316657792.996956
+e316657793.092720
+r1
+xCopyStringsFile
+x/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings316657792#316657793#0(0"0(0#0#65"/Users/Diego/Desktop/Feminina 2/English.lproj/Localizable.strings8603179712#487"    cd "/Users/Diego/Desktop/Feminina 2"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/Localizable.strings --outdir "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj"0#
+
+CCopyStringsFile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/Localizable.strings" pt.lproj/Localizable.strings
+s316657793.092811
+e316657793.140371
+r1
+xCopyStringsFile
+x/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/Localizable.strings
+xpt.lproj/Localizable.strings
+opt.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy pt.lproj/Localizable.strings316657793#316657793#0(130"pt.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#60"/Users/Diego/Desktop/Feminina 2/pt.lproj/Localizable.strings8606435296#476"    cd "/Users/Diego/Desktop/Feminina 2"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary pt.lproj/Localizable.strings --outdir "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj"0#
+
+CCopyStringsFile "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/Localizable.strings" English.lproj/Localizable.strings
+s287774985.598243
+e287774985.818760
+r1
+xCopyStringsFile
+x/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings287774985#287774985#0(0"0(0#0#66"/Users/Diego/Projetos/Feminina 2/English.lproj/Localizable.strings4300885448#489"    cd "/Users/Diego/Projetos/Feminina 2"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/Localizable.strings --outdir "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/English.lproj"0#
+
+CCopyStringsFile "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/Localizable.strings" pt.lproj/Localizable.strings
+s287774985.628041
+e287774985.818948
+r1
+xCopyStringsFile
+x/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj/Localizable.strings
+xpt.lproj/Localizable.strings
+opt.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy pt.lproj/Localizable.strings287774985#287774985#0(130"pt.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#61"/Users/Diego/Projetos/Feminina 2/pt.lproj/Localizable.strings4300885448#478"    cd "/Users/Diego/Projetos/Feminina 2"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary pt.lproj/Localizable.strings --outdir "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/pt.lproj"0#
+
+CCopyStringsFile /Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/English.lproj/Localizable.strings English.lproj/Localizable.strings
+r0
+
+CCopyStringsFile /Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/pt.lproj/Localizable.strings pt.lproj/Localizable.strings
+r0
+
+CCpResource build/Debug-iphonesimulator/Feminina.app/background.png background.png
+s316657792.974859
+e316657792.998855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Feminina.app/background.png
+xbackground.png
+lSLF07#2@19"Copy background.png316657792#316657792#0(0"0(0#0#46"/Users/Diego/Desktop/Feminina 2/background.png8606934560#458"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Diego/Desktop/Feminina 2/background.png" "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"0#
+
+CCpResource build/Debug-iphonesimulator/Feminina.app/bgaboutad.png bgaboutad.png
+s316657792.988152
+e316657793.007897
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Feminina.app/bgaboutad.png
+xbgaboutad.png
+lSLF07#2@18"Copy bgaboutad.png316657792#316657793#0(0"0(0#0#45"/Users/Diego/Desktop/Feminina 2/bgaboutad.png8603532992#457"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Diego/Desktop/Feminina 2/bgaboutad.png" "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"0#
+
+CCpResource build/Debug-iphonesimulator/Feminina.app/btcalculate.png btcalculate.png
+s316657792.975947
+e316657793.009944
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Feminina.app/btcalculate.png
+xbtcalculate.png
+lSLF07#2@20"Copy btcalculate.png316657792#316657793#0(0"0(0#0#47"/Users/Diego/Desktop/Feminina 2/btcalculate.png8606807360#459"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Diego/Desktop/Feminina 2/btcalculate.png" "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"0#
+
+CCpResource build/Debug-iphonesimulator/Feminina.app/btcalculatepressed.png btcalculatepressed.png
+s316657792.977859
+e316657793.005670
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Feminina.app/btcalculatepressed.png
+xbtcalculatepressed.png
+lSLF07#2@27"Copy btcalculatepressed.png316657792#316657793#0(0"0(0#0#54"/Users/Diego/Desktop/Feminina 2/btcalculatepressed.png8606624832#466"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Diego/Desktop/Feminina 2/btcalculatepressed.png" "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"0#
+
+CCpResource build/Debug-iphonesimulator/Feminina.app/icon.png icon.png
+s316657792.984272
+e316657792.999960
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Feminina.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png316657792#316657792#0(0"0(0#0#40"/Users/Diego/Desktop/Feminina 2/icon.png8606353856#452"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Diego/Desktop/Feminina 2/icon.png" "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"0#
+
+CCpResource build/Debug-iphonesimulator/Feminina.app/iconemail.png iconemail.png
+s316657792.986311
+e316657793.005140
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Feminina.app/iconemail.png
+xiconemail.png
+lSLF07#2@18"Copy iconemail.png316657792#316657793#0(0"0(0#0#45"/Users/Diego/Desktop/Feminina 2/iconemail.png8605925728#457"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Diego/Desktop/Feminina 2/iconemail.png" "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"0#
+
+CCpResource build/Debug-iphonesimulator/Feminina.app/iconfavime.png iconfavime.png
+s316657792.991445
+e316657793.024562
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Feminina.app/iconfavime.png
+xiconfavime.png
+lSLF07#2@19"Copy iconfavime.png316657792#316657793#0(0"0(0#0#46"/Users/Diego/Desktop/Feminina 2/iconfavime.png8603450336#458"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Diego/Desktop/Feminina 2/iconfavime.png" "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"0#
+
+CCpResource build/Debug-iphonesimulator/Feminina.app/logofavime.png logofavime.png
+s287633500.742683
+e287633500.753711
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Feminina.app/logofavime.png
+xlogofavime.png
+lSLF07#2@19"Copy logofavime.png287633500#287633500#0(0"0(0#0#47"/Users/Patricia/Desktop/Feminina/logofavime.png4300885448#441"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Patricia/Desktop/Feminina/logofavime.png /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app0#
+
+CGenerateDSYMFile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app.dSYM" "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina"
+s316660164.943596
+e316660164.964510
+r1
+xGenerateDSYMFile
+x/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app.dSYM
+x/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Feminina.app.dSYM build/Debug-iphonesimulator/Feminina.app/Feminina316660164#316660164#0(0"0(0#0#81"/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina8610974304#371"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina" -o "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app.dSYM" "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina"
+s287775087.039712
+e287775087.061303
+r1
+xGenerateDSYMFile
+x/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app.dSYM
+x/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Feminina.app.dSYM build/Debug-iphonesimulator/Feminina.app/Feminina287775087#287775087#0(0"0(0#0#82"/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina4300885448#374"    cd "/Users/Diego/Projetos/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina" -o "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app.dSYM"0#
+
+CGenerateDSYMFile /Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app.dSYM /Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina
+r0
+
+CGenerateDSYMFile /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app.dSYM /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina
+s287712945.584843
+e287712945.611897
+r1
+xGenerateDSYMFile
+x/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app.dSYM
+x/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Feminina.app.dSYM build/Debug-iphonesimulator/Feminina.app/Feminina287712945#287712945#0(0"0(0#0#82"/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina4300885448#368"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina -o /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app.dSYM0#
+
+CLd "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina" normal i386
+s316660164.900251
+e316660164.943487
+r1
+xLd
+x/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina
+xnormal
+xi386
+lSLF07#2@86"Link /Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina316660164#316660164#0(0"0(0#0#0"8611801760#1097"    cd "/Users/Diego/Desktop/Feminina 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator" "-L/Users/Diego/Desktop/Feminina 2/Classes" "-L/Users/Diego/Desktop/Feminina 2" "-F/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator" -filelist "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/Feminina.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MessageUI -framework QuartzCore -framework CoreLocation -framework AddressBook -framework AudioToolbox -framework MediaPlayer -o "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina"0#
+
+CLd "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina" normal i386
+s287775086.487251
+e287775087.039628
+r1
+xLd
+x/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina
+xnormal
+xi386
+old: warning: in /Users/Diego/Projetos/Feminina 2/Classes/libAdMobDevice.a, file is not of required architecture
+old: warning: in /Users/Diego/Projetos/Feminina 2/Classes/libAdMobDeviceNoThumb.a, file is not of required architecture
+lSLF07#2@87"Link /Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina287775086#287775087#0(231"ld: warning: in /Users/Diego/Projetos/Feminina 2/Classes/libAdMobDevice.a, file is not of required architectureld: warning: in /Users/Diego/Projetos/Feminina 2/Classes/libAdMobDeviceNoThumb.a, file is not of required architecture2(22@98"In /Users/Diego/Projetos/Feminina 2/Classes/libAdMobDevice.a, file is not of required architecture287775087#0#112#0(6@0"287775087#0#0#0#0#0"0(22@105"In /Users/Diego/Projetos/Feminina 2/Classes/libAdMobDeviceNoThumb.a, file is not of required architecture287775087#112#119#0(6@0"287775087#0#0#0#0#0"0(0#0#0"4300885448#1118"    cd "/Users/Diego/Projetos/Feminina 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk "-L/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator" "-L/Users/Diego/Projetos/Feminina 2/Classes" "-L/Users/Diego/Projetos/Feminina 2" "-F/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator" -filelist "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/Feminina.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MessageUI -lAdMobDevice -lAdMobSimulator -lAdMobDeviceNoThumb -framework QuartzCore -framework CoreLocation -framework AddressBook -framework AudioToolbox -framework MediaPlayer -o "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Feminina"0#
+
+CLd /Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina normal i386
+r0
+
+CLd /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina normal i386
+s287712945.494360
+e287712945.584718
+r1
+xLd
+x/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina
+xnormal
+xi386
+old: warning: in /Users/Patricia/Desktop/Feminina/Classes/libAdMobDevice.a, file is not of required architecture
+old: warning: in /Users/Patricia/Desktop/Feminina/Classes/libAdMobDeviceNoThumb.a, file is not of required architecture
+lSLF07#2@87"Link /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina287712945#287712945#0(231"ld: warning: in /Users/Patricia/Desktop/Feminina/Classes/libAdMobDevice.a, file is not of required architectureld: warning: in /Users/Patricia/Desktop/Feminina/Classes/libAdMobDeviceNoThumb.a, file is not of required architecture2(22@98"In /Users/Patricia/Desktop/Feminina/Classes/libAdMobDevice.a, file is not of required architecture287712945#0#112#0(6@0"287712945#0#0#0#0#0"0(22@105"In /Users/Patricia/Desktop/Feminina/Classes/libAdMobDeviceNoThumb.a, file is not of required architecture287712945#112#119#0(6@0"287712945#0#0#0#0#0"0(0#0#0"4300885448#1069"    cd /Users/Patricia/Desktop/Feminina    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator -L/Users/Patricia/Desktop/Feminina/Classes -F/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator -filelist /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Objects-normal/i386/Feminina.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework MessageUI -lAdMobDevice -lAdMobSimulator -lAdMobDeviceNoThumb -framework QuartzCore -framework CoreLocation -framework AddressBook -framework AudioToolbox -framework MediaPlayer -o /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Feminina0#
+
+CProcessInfoPlistFile "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Info.plist" Feminina-Info.plist
+s316660081.948730
+e316660081.966332
+r1
+xProcessInfoPlistFile
+x/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Info.plist
+xFeminina-Info.plist
+lSLF07#2@27"Process Feminina-Info.plist316660081#316660081#0(0"0(0#0#51"/Users/Diego/Desktop/Feminina 2/Feminina-Info.plist8608787904#467"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Feminina-Info.plist -genpkginfo "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Info.plist" Feminina-Info.plist
+s287774979.194065
+e287774979.249971
+r1
+xProcessInfoPlistFile
+x/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Info.plist
+xFeminina-Info.plist
+lSLF07#2@27"Process Feminina-Info.plist287774979#287774979#0(0"0(0#0#52"/Users/Diego/Projetos/Feminina 2/Feminina-Info.plist7297009404609131520#470"    cd "/Users/Diego/Projetos/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Feminina-Info.plist -genpkginfo "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app/Info.plist Feminina-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Info.plist Feminina-Info.plist
+s287633500.457239
+e287633500.470196
+r1
+xProcessInfoPlistFile
+x/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Info.plist
+xFeminina-Info.plist
+lSLF07#2@27"Process Feminina-Info.plist287633500#287633500#0(0"0(0#0#52"/Users/Patricia/Desktop/Feminina/Feminina-Info.plist28429445101453416#464"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Feminina-Info.plist -genpkginfo /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app/Info.plist0#
+
+CProcessPCH /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cotvufyqpbffenbrasdkmbudzazi/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287633500.893198
+e287633501.520860
+r1
+xProcessPCH
+x/var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cotvufyqpbffenbrasdkmbudzazi/Feminina_Prefix.pch.gch
+xFeminina_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Feminina_Prefix.pch287633500#287633501#0(0"0(0#0#52"/Users/Patricia/Desktop/Feminina/Feminina_Prefix.pch4300885448#1710"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator -I/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources -c /Users/Patricia/Desktop/Feminina/Feminina_Prefix.pch -o /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-cotvufyqpbffenbrasdkmbudzazi/Feminina_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-czdcoeuznxwzelaryszeelivxprx/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287712944.513912
+e287712945.251410
+r1
+xProcessPCH
+x/var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-czdcoeuznxwzelaryszeelivxprx/Feminina_Prefix.pch.gch
+xFeminina_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Feminina_Prefix.pch287712944#287712945#0(0"0(0#0#52"/Users/Patricia/Desktop/Feminina/Feminina_Prefix.pch4300885448#1708"    cd /Users/Patricia/Desktop/Feminina    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap -iquote /Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap -F/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator -I/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/include -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386 -I/Users/Patricia/Desktop/Feminina/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources -c /Users/Patricia/Desktop/Feminina/Feminina_Prefix.pch -o /var/folders/2I/2IPg1siFFrqUKbzz8ttLUE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-czdcoeuznxwzelaryszeelivxprx/Feminina_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-amutryzwtokvugcxjczorvdngywc/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316657793.225444
+e316657794.362469
+r1
+xProcessPCH
+x/var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-amutryzwtokvugcxjczorvdngywc/Feminina_Prefix.pch.gch
+xFeminina_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Feminina_Prefix.pch316657793#316657794#0(0"0(0#0#51"/Users/Diego/Desktop/Feminina 2/Feminina_Prefix.pch8606833920#1775"    cd "/Users/Diego/Desktop/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Desktop/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -c "/Users/Diego/Desktop/Feminina 2/Feminina_Prefix.pch" -o /var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-amutryzwtokvugcxjczorvdngywc/Feminina_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Xb/Xbjy-i54F-SXpX6lv+A92E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Feminina_Prefix-axhprivsnigxzmbwmgbsgihbwisq/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-daeqtbmwydyrclevuqbdvzetqnjv/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287774985.819064
+e287774988.271819
+r1
+xProcessPCH
+x/var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-daeqtbmwydyrclevuqbdvzetqnjv/Feminina_Prefix.pch.gch
+xFeminina_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Feminina_Prefix.pch287774985#287774988#0(0"0(0#0#52"/Users/Diego/Projetos/Feminina 2/Feminina_Prefix.pch4300885448#1730"    cd "/Users/Diego/Projetos/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -c "/Users/Diego/Projetos/Feminina 2/Feminina_Prefix.pch" -o /var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-daeqtbmwydyrclevuqbdvzetqnjv/Feminina_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-dglqcnhkgcpdeicyuuiuvyoyhxzj/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287775085.451580
+e287775086.200916
+r1
+xProcessPCH
+x/var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-dglqcnhkgcpdeicyuuiuvyoyhxzj/Feminina_Prefix.pch.gch
+xFeminina_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Feminina_Prefix.pch287775085#287775086#0(0"0(0#0#52"/Users/Diego/Projetos/Feminina 2/Feminina_Prefix.pch4300885448#1728"    cd "/Users/Diego/Projetos/Feminina 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-generated-files.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-own-target-headers.hmap" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-all-target-headers.hmap" -iquote "/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/Feminina-project-headers.hmap" "-F/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator" "-I/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/include" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources/i386" "-I/Users/Diego/Projetos/Feminina 2/build/Feminina.build/Debug-iphonesimulator/Feminina.build/DerivedSources" -c "/Users/Diego/Projetos/Feminina 2/Feminina_Prefix.pch" -o /var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-dglqcnhkgcpdeicyuuiuvyoyhxzj/Feminina_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/sp/spN48cJTEfOYCArXBlp9IE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Feminina_Prefix-eiutvelwwcglbrdvwbahzkmeppws/Feminina_Prefix.pch.gch Feminina_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"
+s316660164.964606
+e316660164.967889
+r1
+xTouch
+x/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app
+lSLF07#2@78"Touch /Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app316660164#316660164#0(0"0(0#0#0"8608373248#269"    cd "/Users/Diego/Desktop/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Diego/Desktop/Feminina 2/build/Debug-iphonesimulator/Feminina.app"0#
+
+CTouch "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app"
+s287775087.061380
+e287775087.064228
+r1
+xTouch
+x/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app
+lSLF07#2@79"Touch /Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app287775087#287775087#0(0"0(0#0#0"4300885448#271"    cd "/Users/Diego/Projetos/Feminina 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Diego/Projetos/Feminina 2/build/Debug-iphonesimulator/Feminina.app"0#
+
+CTouch /Users/Diego/Projects/Feminina/build/Debug-iphonesimulator/Feminina.app
+r0
+
+CTouch /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app
+s287715854.538524
+e287715854.541403
+r1
+xTouch
+x/Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app
+lSLF07#2@79"Touch /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app287715854#287715854#0(0"0(0#0#0"4300885448#267"    cd /Users/Patricia/Desktop/Feminina    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Patricia/Desktop/Feminina/build/Debug-iphonesimulator/Feminina.app0#
+
